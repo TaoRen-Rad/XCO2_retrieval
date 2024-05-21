@@ -10,13 +10,11 @@ This repository contains the necessary resources and code for the fast retrieval
 ### Folders
 
 1. **MLP-XCO2 Model Parameters**: This folder contains the parameters for the MLP-XCO2 model.
-2. **MLP-P Model Parameters**: Here, you can find the parameters for the MLP-P model along with the corresponding normalization parameters.
 
 ### Jupyter Notebooks
 
-1. **Spectral Preprocessing Interpolation**: This notebook covers the preprocessing and interpolation of spectral data.
-2. **Non-Spectral Data Preprocessing**: This notebook focuses on the preprocessing of non-spectral data.
-3. **MLP-XCO2 Training Example**: This notebook includes code for training the MLP-XCO2 model and testing its performance on data from 2017-2020.
+1. **Data Preprocessing**: This notebook focuses on the preprocessing of all data.
+2. **MLP-XCO2 Training Example**: This notebook includes code for training the MLP-XCO2 model and testing its performance on data from 2017-2020.
 
 ## Citation
 
